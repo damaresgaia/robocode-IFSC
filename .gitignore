@@ -1,0 +1,7 @@
+# Ignora arquivos compilados
+*.class
+
+# Ignora arquivos do Robocode que não precisam ser versionados
+*.robotcache
+*.log
+*.bak
