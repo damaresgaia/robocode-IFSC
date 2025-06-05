@@ -11,7 +11,7 @@ Este repositório contém o desenvolvimento do robô **Luiz**, criado como parte
 
 ## 👥 Integrantes da Equipe
 
-- Damares Gaia (GitHub: [@usuario1](https://github.com/damaresgaia))
+- Damares Gaia (GitHub: [@damaresgaia](https://github.com/damaresgaia))
 - Vitória Corrêa (GitHub: [@vitoriacorrea](https://github.com/vitoriacorrea))
 - Ana Clara (GitHub: [@anaclat](https://github.com/anaclat))
 
