@@ -17,7 +17,6 @@ Este repositório contém o desenvolvimento do robô **Luiz**, criado como parte
 
 ## 📁 Estrutura do Projeto
 
-Gaia/
 ├── Luiz.java # Código-fonte do robô
 
 > ⚠️ Arquivos compilados (.class) estão ignorados via `.gitignore`.
